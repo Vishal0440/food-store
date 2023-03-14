@@ -40,9 +40,10 @@
     text-decoration: none;
   }
   .dropdown{
-    width: 150px;
+    width: 100px;
     padding: 20px;
     position: absolute;
+    text-align: center;
     right: 24px;
     background-color: white;
     box-shadow: 0 2px 5px #ccc;
@@ -278,9 +279,7 @@
     margin: 15px;
     padding: 40px 30px;
     background-color: #2d45c0;
-    border-top-left-radius: 45px;
-    border-bottom-left-radius: 45px;
-    border-bottom-right-radius: 45px;
+    border-radius: 52px 16px;
 }
 .testimonial-card-author{
     font-family: sans-serif;
